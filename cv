@@ -3,5 +3,6 @@ layout: default
 title: Michel Grosz
 ---
 <div class="blurb">
+	<h1>Hi there, I'm Michel Grosz</h1>
 	<p><a href="https://github.com/mzgrosz/cv/blob/master/GroszCV_1901.pdf">Download my current CV here</a> (updated January 2019)</p>
 </div><!-- /.blurb -->
