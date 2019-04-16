@@ -10,7 +10,7 @@ title: Michel Grosz
 
 ## Peer-Reviewed Publications
 
-["The Effect of Local Labor Market Downturns on Postsecondary Enrollment and Program Choice,"](https://www.mitpressjournals.org/doi/abs/10.1162/edfp_a_00288) with Andrew Foote. Forthcoming, *Education Finance and Policy* (pre-publication version)
+["The Effect of Local Labor Market Downturns on Postsecondary Enrollment and Program Choice,"](https://www.mitpressjournals.org/doi/abs/10.1162/edfp_a_00288) with Andrew Foote. Forthcoming, *Education Finance and Policy* ([pre-publication version](https://aefpweb.org/sites/default/files/webform/42/FooteGrosz_AEFPPaper.pdf))
 
 
 ["Career Technical Education and Labor Market Outcomes: Evidence from California Community Colleges,"](http://jhr.uwpress.org/content/early/2018/04/02/jhr.54.4.1015.7449R2.abstract) with Michal Kurlaender and Ann Stevens. Forthcoming, *Journal of Human Resources* ([pre-publication version](https://www.nber.org/papers/w21137)) 
