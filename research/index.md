@@ -47,4 +47,4 @@ title: Michel Grosz
 
 ## Other
 
-I am the Dark Knight of Data, according to the Washington Post.
+I am the [Dark Knight of Data](https://www.washingtonpost.com/news/wonk/wp/2014/08/18/name-that-data-winners/?utm_term=.3cd38d9f8b5d), according to the Washington Post.
