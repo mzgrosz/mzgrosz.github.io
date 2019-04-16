@@ -4,12 +4,9 @@ title: Michel Grosz
 ---
 <div class="blurb">
 	<h1>Michel Grosz</h1>
-
-
-
 </div><!-- /.blurb -->
 
-Peer-Reviewed Publications
+<p Peer-Reviewed Publications
 
 The Effect of Local Labor Market Downturns on Postsecondary Enrollment and Program Choice
 With Andrew Foote
