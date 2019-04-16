@@ -25,7 +25,7 @@ title: Michel Grosz
 
 ## Working Papers
 
-"The Returns to a Large Community College Program: Evidence from Admissions Lotteries." Revisions requested at *American Economic Journal: Economic Policy* 
+["The Returns to a Large Community College Program: Evidence from Admissions Lotteries."](/research/grosz_JMP_081118.pdf) Revisions requested at *American Economic Journal: Economic Policy* 
 
 "In-State Tuition Policies and the College Decisions of Undocumented Students: Evidence from Colorado," with Annie Hines. Under review.
 
@@ -33,7 +33,7 @@ title: Michel Grosz
 
 "Do Postsecondary Training Programs Respond to the Labor Market?"
 
-"Capacity and Flexibility in CTE Programs: Program Offerings and Student Success," with Michal Kurlaender and Ann Stevens.
+["Capacity and Flexibility in CTE Programs: Program Offerings and Student Success,"](https://education.ucdavis.edu/sites/main/files/cte_flexibility_paper_draft_9-30-18_for_ies.pdf) with Michal Kurlaender and Ann Stevens.
 
 "Majority Builds: Direct Democracy and the Allocation of School Facilities Spending," with Ross Milton.
 
