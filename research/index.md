@@ -15,24 +15,13 @@ title: Michel Grosz
 
 "Career Technical Education and Labor Market Outcomes: Evidence from California Community Colleges," with Michal Kurlaender and Ann Stevens. Forthcoming, *Journal of Human Resources* (pre-publication version) 
 * Media/Briefs: CEA Report on Student Debt; Chicago Policy Review; US News and World Report; Five Thirty Eight; Diverse Issues in Higher Education; UC Davis Center for Poverty Research 
-
 * Online Appendix: Sub-Discipline Level Estimates   
 
-### The Effect of Lower Transaction Costs on Disability Insurance Application Rates and Participation
+"The Effect of Lower Transaction Costs on Disability Insurance Application Rates and Participation," with Stephanie Rennane and Andrew Foote. *Journal of Policy Analysis and Management*, 2019. 38(1), 99-123.
+* Media/Briefs: Abt Perspectives Blog, RAND Working Paper Series
 
-with Stephanie Rennane and Andrew Foote 
-
-*Journal of Policy Analysis and Management*, 2019. 38(1), 99-123.
-
-Media/Briefs: Abt Perspectives Blog, RAND Working Paper Series
-
-### Locate Your Nearest Exit: Mass Layoffs and Local Labor Market Response 
-
-with Andrew Foote and Ann Stevens 
-
-*ILR Review*, 2019. 72(1), 101-126. (pre-publication version)
-
-Media/Briefs: Wall Street Journal; Bloomberg; Washington Center for Equitable Growth, VoxEU Brief; Census CES Discussion Paper 15-25
+"Locate Your Nearest Exit: Mass Layoffs and Local Labor Market Response," with Andrew Foote and Ann Stevens *ILR Review*, 2019. 72(1), 101-126. (pre-publication version)
+* Media/Briefs: Wall Street Journal; Bloomberg; Washington Center for Equitable Growth, VoxEU Brief; Census CES Discussion Paper 15-25
 
 ## Working Papers
 
