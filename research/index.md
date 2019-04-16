@@ -25,19 +25,11 @@ title: Michel Grosz
 
 ## Working Papers
 
-### The Returns to a Large Community College Program: Evidence from Admissions Lotteries 
+"The Returns to a Large Community College Program: Evidence from Admissions Lotteries." Revisions requested at *American Economic Journal: Economic Policy*
+* *Abstract*: Community colleges are an important postsecondary sector, yet there are few causal estimates of their effect on student earnings. I estimate the labor market returns to a particularly important degree, the Associate’s Degree in Nursing, by leveraging random variation from admissions lotteries. I use student-level academic and earnings records across two decades for community college students in California. I find that enrolling in the program increases earnings by 55 percent. I also document substantial heterogeneity in these effects across nursing programs. I estimate that the benefits of expanding a program far outweigh the costs and are close to revenue neutral.
 
-(Revisions requested at *American Economic Journal: Economic Policy*) 
-
-*Abstract*: Community colleges are an important postsecondary sector, yet there are few causal estimates of their effect on student earnings. I estimate the labor market returns to a particularly important degree, the Associate’s Degree in Nursing, by leveraging random variation from admissions lotteries. I use student-level academic and earnings records across two decades for community college students in California. I find that enrolling in the program increases earnings by 55 percent. I also document substantial heterogeneity in these effects across nursing programs. I estimate that the benefits of expanding a program far outweigh the costs and are close to revenue neutral.
-
-### In-State Tuition Policies and the College Decisions of Undocumented Students: Evidence from Colorado
-
-with Annie Hines 
-
-(Under review)
-
-*Abstract*: This paper evaluates the effects of a tuition policy change on the college application and enrollment behavior of undergraduate students. We use student-level data for all Colorado public post-secondary institutions to analyze the effects of a 2013 law that granted in-state tuition to certain undocumented immigrant students. We find evidence of an increase in the enrollment of likely undocumented students, as well as an increase in the number of credit hours for these students. Leveraging application-level data, we show that the policy induced more undocumented students to enroll in college, but we ascribe this increase to an increase in applications rather than a change in the acceptance or enrollment rate. We do not find evidence of policy-induced changes in the persistence, full-time status or completed credit hours of continuing students.
+"In-State Tuition Policies and the College Decisions of Undocumented Students: Evidence from Colorado," with Annie Hines. Under review.
+* *Abstract*: This paper evaluates the effects of a tuition policy change on the college application and enrollment behavior of undergraduate students. We use student-level data for all Colorado public post-secondary institutions to analyze the effects of a 2013 law that granted in-state tuition to certain undocumented immigrant students. We find evidence of an increase in the enrollment of likely undocumented students, as well as an increase in the number of credit hours for these students. Leveraging application-level data, we show that the policy induced more undocumented students to enroll in college, but we ascribe this increase to an increase in applications rather than a change in the acceptance or enrollment rate. We do not find evidence of policy-induced changes in the persistence, full-time status or completed credit hours of continuing students.
 
 ### Selection into Identification in Fixed Effects Models, with Application to Head Start 
 
