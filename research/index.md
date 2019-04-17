@@ -21,7 +21,7 @@ title: Michel Grosz
 * Media/Briefs: [Abt Perspectives Blog](https://www.abtassociates.com/insights/perspectives-blog/social-security-disability-insurance-sometimes-easier-is-better), [RAND Working Paper Series](https://www.rand.org/pubs/working_papers/WR1255.html)
 
 ["Locate Your Nearest Exit: Mass Layoffs and Local Labor Market Response,"](https://journals.sagepub.com/doi/abs/10.1177/0019793917753095) with Andrew Foote and Ann Stevens *ILR Review*, 2019. 72(1), 101-126. ([pre-publication version](https://www.nber.org/papers/w21618))
-* Media/Briefs: Wall Street Journal; Bloomberg; Washington Center for Equitable Growth, VoxEU Brief; Census CES Discussion Paper 15-25
+* Media/Briefs: [Wall Street Journal](https://blogs.wsj.com/economics/2016/03/17/half-of-u-s-may-endure-lost-decade-of-depressed-employment/); [Bloomberg](https://www.bloomberg.com/opinion/articles/2018-01-03/how-governments-can-move-people-to-jobs); [Washington Center for Equitable Growth](https://equitablegrowth.org/the-consequences-and-causes-of-declining-geographic-mobility-in-the-united-states/), [VoxEU Brief](https://voxeu.org/article/mass-layoffs-and-local-labour-market-exit); [Census CES Discussion Paper 15-25](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2661687)
 
 ## Working Papers
 
