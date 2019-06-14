@@ -40,11 +40,9 @@ title: Michel Grosz
 
 ## Work In Progress
 
-"Does Specific Labor Market Information Affect Major Choice?" with Matt Naven
-
 "School Infrastructure Spending and Academic Outcomes," with Ross Milton
 
-"The Effect of Lottery-Based Admissions on Cohort Composition and Success: Evidence from California,"
+"Admissions Policies, Cohort Composition, and Academic Success: Evidence from California,"
 
 ## Other
 
