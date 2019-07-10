@@ -35,6 +35,7 @@ title: Michel Grosz
 **["Selection into Identification in Fixed Effects Models, with Application to Head Start,"](https://mzgrosz.github.io/research/msg_master.pdf) with Doug Miller and Na'ama Shenhav. Under review.**
 
 **["Do Postsecondary Training Programs Respond to the Labor Market?"](https://www.abtassociates.com/insights/publications/white-paper/do-postsecondary-training-programs-respond-to-changes-in-the)**
+* Op-eds/Briefs: [Inside Higher Ed](https://www.insidehighered.com/views/2019/07/10/community-colleges-should-be-more-responsive-labor-market-changes-opinion)
 
 **["Capacity and Flexibility in CTE Programs: Program Offerings and Student Success,"](https://education.ucdavis.edu/sites/main/files/cte_flexibility_paper_draft_9-30-18_for_ies.pdf) with Michal Kurlaender and Ann Stevens.**
 
