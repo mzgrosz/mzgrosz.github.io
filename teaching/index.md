@@ -8,7 +8,7 @@ title: Michel Grosz
 
 
 
-<p><b>Adjunct Professor</b>, <em> American University, School of Public Affairs</em><br>
+<p><b>Adjunct Professor</b>, <em> American University (School of Public Affairs)</em><br>
   Public Managerial Economics (MPA Program); Fall 2019<br>
 </p> 
 
