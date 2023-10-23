@@ -3,7 +3,7 @@ body {
     width: 50%;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:"Times New Roman", Times, serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -20,18 +20,18 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: "Times New Roman", Times, serif;
 }
 h2 {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: "Times New Roman", Times, serif;
 }
 h3 {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: "Times New Roman", Times, serif;
      font-size: 1.3em;
    
 }
 p {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: "Times New Roman", Times, serif;
     font-size: 1em;
     line-height: 1.3em;
     color: #333;
@@ -52,7 +52,7 @@ ul.posts li {
 
 th {
   text-align: left;
-  font-family:'Helvetica', 'Arial', 'Sans-Serif';
+  font-family: "Times New Roman", Times, serif;
 
 }
 
