@@ -32,7 +32,7 @@ h3 {
 }
 p {
     font-family: "Times New Roman", Times, serif;
-    font-size: 1em;
+    font-size: 1.1em;
     line-height: 1.3em;
     color: #333;
 }
@@ -43,7 +43,7 @@ footer {
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1.1em;
+    font-size: 1.3em;
 }
 
 ul.posts li {
