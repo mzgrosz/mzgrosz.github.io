@@ -53,11 +53,13 @@ ul.posts li {
 th {
   text-align: left;
   font-family: "Times New Roman", Times, serif;
+  font-size: 1.1em;
 
 }
 
 tr {
   text-align: left;
   font-family:'Helvetica', 'Arial', 'Sans-Serif';
+  font-size: 1.1em;
 
 }
