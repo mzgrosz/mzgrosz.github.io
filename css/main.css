@@ -75,7 +75,6 @@ h2 {
     font-weight: bold;
     margin-top: 2rem;                /* spacing above header */
     margin-bottom: 1rem;             /* spacing below header */
-    text-transform: uppercase;       /* optional: all caps like your current headers */
     border-bottom: 2px solid #ddd;   /* subtle underline for separation */
     padding-bottom: 0.3rem;          /* space between text and border */
     color: #222;                     /* optional: slightly darker than body */
