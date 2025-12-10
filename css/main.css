@@ -60,11 +60,12 @@ header ul {
     margin: 0;
 }
 header h1 {
-    font-size: 2.5rem;       /* large and proportional */
-    margin: 0 0 0.5rem 0;    /* spacing below the name */
+    font-family: "Georgia", serif; /* match the rest of your text */
+    font-size: 2.5rem;             /* keeps it large */
     font-weight: bold;
+    margin: 0 0 0.5rem 0;
     line-height: 1.2;
-    text-align: left;        /* align with intro text */
+    text-align: left;              /* aligns with intro text */
 }
 
 .indented-line {
