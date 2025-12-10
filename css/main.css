@@ -1,5 +1,17 @@
 /* Sleek, modernized replacement for main.css */
-text-align: center;
+text-decoration: underline;
+}
+
+
+/* Header */
+header {
+display: flex;
+align-items: center;
+justify-content: center;
+gap: var(--space-lg);
+padding: var(--space-lg) 0;
+border-bottom: 1px solid var(--border-color);
+text-align: left;
 }
 
 
@@ -26,7 +38,8 @@ background: #fff;
 
 /* Images */
 img {
-max-width: 100%;
+max-width: 250px;
+height: auto;
 border-radius: var(--radius);
 display: block;
 }
