@@ -1,3 +1,6 @@
+/* ------------------------------
+   Global Variables
+------------------------------ */
 :root {
     --font-family: "Georgia", serif;
     --font-family-alt: "Verdana", sans-serif;
@@ -24,7 +27,12 @@ body {
     background: var(--background-color);
     color: var(--text-color);
     font-family: var(--font-family);
+    font-size: 1rem;
     line-height: 1.55;
+}
+
+p {
+    margin: 0.8rem 0;
 }
 
 a {
@@ -33,98 +41,84 @@ a {
 }
 a:hover {
     text-decoration: underline;
-}
-
-h1, h2, h3 {
-    font-family: var(--font-family-alt);
-    margin-top: var(--space-lg);
+    color: #004999;
 }
 
 /* ------------------------------
-   Header Layout Fix
+   Header Layout
 ------------------------------ */
-
 header {
     display: flex;
     align-items: center;
-    justify-content: center;
-    gap: var(--space-lg);
-    padding: var(--space-lg) 0;
+    justify-content: flex-start;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+    padding-bottom: 2rem;
     border-bottom: 1px solid var(--border-color);
-    flex-wrap: wrap; /* Allows stacking on narrow screens */
 }
 
-header ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
+/* Top name */
 header h1 {
-    font-family: "Georgia", serif; /* match the rest of your text */
-    font-size: 2.5rem;             /* keeps it large */
+    font-family: var(--font-family);
+    font-size: 2.5rem;
     font-weight: bold;
     margin: 0 0 0.5rem 0;
     line-height: 1.2;
-    text-align: left;              /* aligns with intro text */
+    color: var(--text-color);
+    text-align: left;
 }
 
-/* Section headers (h2) styling */
-h2 {
-    font-family: "Georgia", serif;   /* matches body font */
-    font-size: 1.8rem;               /* large enough to stand out */
-    font-weight: bold;
-    margin-top: 2rem;                /* spacing above header */
-    margin-bottom: 1rem;             /* spacing below header */
-    border-bottom: 2px solid #ddd;   /* subtle underline for separation */
-    padding-bottom: 0.3rem;          /* space between text and border */
-    color: #222;                     /* optional: slightly darker than body */
-}
-
-.indented-line {
-    display: block;
-    padding-left: 40px;
-}
-
-/* Keeps the photo a reasonable size on desktop */
+/* Headshot */
 header img {
-    max-width: 200px;   /* Adjust this if you want bigger/smaller */
+    max-width: 180px;
     width: 100%;
     height: auto;
     border-radius: var(--radius);
-    flex-shrink: 0;     /* Prevents squishing */
+    flex-shrink: 0;
 }
 
-/* Text block beside the image */
+/* Text block beside photo */
 header .intro-text {
     flex: 1 1 auto;
-    min-width: 250px;   /* Prevents the text from collapsing */
-}
-
-/* Improve spacing of name/title/address */
-header .intro-text h1 {
-    margin-bottom: var(--space-sm);
-}
-header .intro-text p {
-    margin: var(--space-sm) 0;
+    min-width: 250px;
 }
 
 /* ------------------------------
-   Section Styling
+   Indented Lines (coauthors/journals)
 ------------------------------ */
-
-section {
-    margin-top: var(--space-lg);
-    padding-bottom: var(--space-lg);
-    border-bottom: 1px solid var(--border-color);
+.indented-line {
+    display: block;
+    padding-left: 40px;
+    font-size: 0.95rem;
+    color: #333;
 }
 
-ul {
-    padding-left: 1.2rem;
+/* ------------------------------
+   Section Headers
+------------------------------ */
+h2 {
+    font-family: var(--font-family);
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+    border-bottom: 2px solid var(--border-color);
+    padding-bottom: 0.3rem;
+    color: var(--text-color);
 }
 
-footer {
-    padding-top: var(--space-lg);
-    text-align: center;
-    font-size: 0.9rem;
-    color: #555;
+h3 {
+    font-family: var(--font-family);
+    font-size: 1.4rem;
+    font-weight: bold;
+    margin-top: 1.5rem;
+    margin-bottom: 0.8rem;
+}
+
+/* ------------------------------
+   Container spacing
+------------------------------ */
+.container {
+    margin-top: 2rem;
+    padding-bottom: 2rem;
 }
