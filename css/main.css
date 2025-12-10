@@ -1,109 +1,99 @@
-/* Sleek, modernized replacement for main.css */
-text-decoration: underline;
+:root {
+    --font-family: "Georgia", serif;
+    --font-family-alt: "Verdana", sans-serif;
+
+    --text-color: #222;
+    --background-color: #fafafa;
+    --link-color: #0066cc;
+    --border-color: #ddd;
+
+    --space-sm: 0.4rem;
+    --space-md: 0.8rem;
+    --space-lg: 1.6rem;
+
+    --radius: 6px;
 }
 
+/* ------------------------------
+   Base Styles
+------------------------------ */
+body {
+    margin: 0 auto;
+    max-width: 750px;
+    padding: var(--space-lg);
+    background: var(--background-color);
+    color: var(--text-color);
+    font-family: var(--font-family);
+    line-height: 1.55;
+}
 
-/* Header */
+a {
+    color: var(--link-color);
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+h1, h2, h3 {
+    font-family: var(--font-family-alt);
+    margin-top: var(--space-lg);
+}
+
+/* ------------------------------
+   Header Layout Fix
+------------------------------ */
+
 header {
-display: flex;
-align-items: center;
-justify-content: center;
-gap: var(--space-lg);
-padding: var(--space-lg) 0;
-border-bottom: 1px solid var(--border-color);
-text-align: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: var(--space-lg);
+    padding: var(--space-lg) 0;
+    border-bottom: 1px solid var(--border-color);
+    flex-wrap: wrap; /* Allows stacking on narrow screens */
 }
 
+/* Keeps the photo a reasonable size on desktop */
+header img {
+    max-width: 200px;   /* Adjust this if you want bigger/smaller */
+    width: 100%;
+    height: auto;
+    border-radius: var(--radius);
+    flex-shrink: 0;     /* Prevents squishing */
+}
 
-/* Footer */
+/* Text block beside the image */
+header .intro-text {
+    flex: 1 1 auto;
+    min-width: 250px;   /* Prevents the text from collapsing */
+}
+
+/* Improve spacing of name/title/address */
+header .intro-text h1 {
+    margin-bottom: var(--space-sm);
+}
+header .intro-text p {
+    margin: var(--space-sm) 0;
+}
+
+/* ------------------------------
+   Section Styling
+------------------------------ */
+
+section {
+    margin-top: var(--space-lg);
+    padding-bottom: var(--space-lg);
+    border-bottom: 1px solid var(--border-color);
+}
+
+ul {
+    padding-left: 1.2rem;
+}
+
 footer {
-margin-top: var(--space-lg);
-padding-top: var(--space-md);
-border-top: 1px solid var(--border-color);
-font-size: 0.9rem;
-color: var(--muted-text);
-}
-
-
-/* Card elements (optional) */
-.card {
-border: 1px solid var(--border-color);
-border-radius: var(--radius);
-padding: var(--space-md);
-margin-bottom: var(--space-md);
-box-shadow: var(--shadow);
-background: #fff;
-}
-
-
-/* Images */
-img {
-max-width: 250px;
-height: auto;
-border-radius: var(--radius);
-display: block;
-}
-
-
-/* Tables */
-table {
-width: 100%;
-border-collapse: collapse;
-margin-bottom: var(--space-lg);
-font-size: 0.95rem;
-}
-
-
-th, td {
-padding: var(--space-sm);
-border-bottom: 1px solid var(--border-color);
-}
-
-
-th {
-background: #f8f8f8;
-text-align: left;
-}
-
-
-/* Code blocks */
-pre, code {
-font-family: "Fira Code", monospace;
-background: #f5f5f5;
-padding: var(--space-xs) var(--space-sm);
-border-radius: var(--radius);
-}
-
-
-pre {
-padding: var(--space-sm);
-overflow-x: auto;
-}
-
-
-/* Buttons */
-.button, .btn {
-display: inline-block;
-background: var(--accent-color);
-color: #fff;
-padding: var(--space-sm) var(--space-md);
-border-radius: var(--radius);
-text-decoration: none;
-transition: background 0.2s ease;
-}
-
-
-.button:hover, .btn:hover {
-background: var(--accent-hover);
-}
-
-
-/* Layout helpers */
-.center {
-text-align: center;
-}
-
-
-.spacer {
-margin-top: var(--space-lg);
+    padding-top: var(--space-lg);
+    text-align: center;
+    font-size: 0.9rem;
+    color: #555;
 }
