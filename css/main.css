@@ -54,6 +54,24 @@ header {
     flex-wrap: wrap; /* Allows stacking on narrow screens */
 }
 
+header ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+header h1 {
+    font-size: 2.5rem;       /* large and proportional */
+    margin: 0 0 0.5rem 0;    /* spacing below the name */
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: left;        /* align with intro text */
+}
+
+.indented-line {
+    display: block;
+    padding-left: 40px;
+}
+
 /* Keeps the photo a reasonable size on desktop */
 header img {
     max-width: 200px;   /* Adjust this if you want bigger/smaller */
