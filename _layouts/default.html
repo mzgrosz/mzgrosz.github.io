@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-		</head>
-		
-		<!-- Google tag (gtag.js) -->
+<html>
+<head>
+    <title>{{ page.title }}</title>
+    <!-- link to main stylesheet -->
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+</head>
+
+<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-DQ4KCSGQJN"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -15,21 +15,38 @@
 
   gtag('config', 'G-DQ4KCSGQJN');
 </script>
-		
-		
-		<body>
-			<nav>
-	    		<ul>
-	        		<li><b>Michel Grosz</b></li>
 
-	    		</ul>
-			</nav>
-			<div class="container">
-			
-			{{ content }}
-			
-			</div><!-- /.container -->
+<body>
 
-		</body>
-	{% include googleanalytics.html %}	
-	</html>
+    <!-- Header: name + image + address -->
+    <header>
+        <h1>Michel Grosz</h1>
+
+        <img src="/headshot2310b.jpg" alt="Headshot">
+
+        <div class="intro-text">
+            <div>
+                <a href="https://www.ftc.gov/about-ftc/bureaus-offices/bureau-economics" target="_blank">
+                    Bureau of Economics
+                </a><br>
+                Federal Trade Commission<br>
+                600 Pennsylvania Avenue NW<br>
+                Washington, DC 20580<br><br>
+
+                Email: <a href="mailto:mgrosz@ftc.gov">mgrosz@ftc.gov</a><br>
+                Phone: 202-326-2253<br>
+
+                <a href="https://scholar.google.com/citations?user=En3qbL4AAAAJ&hl=en" target="_blank">
+                    Google Scholar Profile
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <div class="container">
+        {{ content }}
+    </div><!-- /.container -->
+
+</body>
+{% include googleanalytics.html %}    
+</html>
